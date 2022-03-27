@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
 stepik_homework
+repository_used_for_study
